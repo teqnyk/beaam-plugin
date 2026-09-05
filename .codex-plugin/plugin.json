@@ -1,0 +1,33 @@
+{
+  "name": "beaam",
+  "version": "1.1.0",
+  "description": "Quietly monitor a production stack and investigate what needs attention.",
+  "author": {
+    "name": "Teqnyk Ltd",
+    "email": "support@beaam.app",
+    "url": "https://beaam.app"
+  },
+  "homepage": "https://beaam.app/docs/mcp/",
+  "repository": "https://github.com/teqnyk/beaam-plugin",
+  "keywords": ["monitoring", "observability", "incidents", "operations", "mcp"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Beaam",
+    "shortDescription": "Quiet monitoring for the stack behind your product.",
+    "longDescription": "Connect Beaam to inspect service health, investigate incidents, review monitoring coverage, and make requested monitoring changes without leaving Codex or ChatGPT.",
+    "developerName": "Teqnyk Ltd",
+    "category": "Developer Tools",
+    "capabilities": ["Monitoring", "Read", "Write"],
+    "websiteURL": "https://beaam.app",
+    "privacyPolicyURL": "https://app.beaam.app/privacy",
+    "termsOfServiceURL": "https://app.beaam.app/tos",
+    "defaultPrompt": [
+      "Check whether anything in my stack needs attention.",
+      "Investigate my latest incident and explain the likely cause.",
+      "Review my monitoring coverage and tell me what is missing."
+    ],
+    "brandColor": "#5B50E8",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

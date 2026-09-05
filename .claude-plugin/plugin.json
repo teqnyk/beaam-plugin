@@ -1,0 +1,20 @@
+{
+  "name": "beaam",
+  "version": "1.1.0",
+  "description": "Audit a project, plan its monitoring coverage, and connect it to Beaam.",
+  "author": {
+    "name": "Teqnyk Ltd",
+    "email": "support@beaam.app",
+    "url": "https://beaam.app"
+  },
+  "homepage": "https://beaam.app/docs/mcp/",
+  "repository": "https://github.com/teqnyk/beaam-plugin",
+  "keywords": [
+    "monitoring",
+    "observability",
+    "incidents",
+    "operations",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}

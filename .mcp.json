@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "beaam": {
+      "type": "http",
+      "url": "https://app.beaam.app/api/mcp"
+    }
+  }
+}
