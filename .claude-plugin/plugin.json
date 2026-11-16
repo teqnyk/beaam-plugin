@@ -9,7 +9,7 @@
   },
   "homepage": "https://beaam.app/docs/mcp/",
   "repository": "https://github.com/teqnyk/beaam-plugin",
-  "license": "MIT",
+  "license": "LicenseRef-Beaam-Plugin",
   "privacyPolicyUrl": "https://app.beaam.app/privacy",
   "keywords": [
     "monitoring",
