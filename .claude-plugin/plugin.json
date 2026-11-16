@@ -9,6 +9,8 @@
   },
   "homepage": "https://beaam.app/docs/mcp/",
   "repository": "https://github.com/teqnyk/beaam-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://app.beaam.app/privacy",
   "keywords": [
     "monitoring",
     "observability",

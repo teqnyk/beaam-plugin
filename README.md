@@ -52,3 +52,13 @@ OAuth and token-based connections remain in Beaam's secure connection flow.
 - [Support](https://beaam.app/docs)
 - [Privacy policy](https://app.beaam.app/privacy)
 - [Terms of service](https://app.beaam.app/tos)
+
+## Licence
+
+The plugin — its manifests, skill and documentation — is MIT licensed; see
+[LICENSE](LICENSE). Beaam is a hosted service, and using it through this plugin
+is governed by the [terms of service](https://app.beaam.app/tos) above.
+
+"Beaam", "Teqnyk" and the Beaam marks in `assets/` are trademarks of Teqnyk Ltd.
+Trademarks are not licensed by MIT, so a fork should carry its own name and
+icons.

@@ -9,6 +9,7 @@
   },
   "homepage": "https://beaam.app/docs/mcp/",
   "repository": "https://github.com/teqnyk/beaam-plugin",
+  "license": "MIT",
   "keywords": ["monitoring", "observability", "incidents", "operations", "mcp"],
   "mcpServers": "./.mcp.json",
   "interface": {
