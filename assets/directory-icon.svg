@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Beaam">
-  <!-- Own the tile colour: some directories flatten transparent icons to white. -->
-  <rect width="512" height="512" rx="112" fill="#292557"/>
-  <circle cx="92" cy="256" r="52" fill="#ffffff"/>
-  <path d="M154 256 464 92v328Z" fill="#9e97ff"/>
-  <path d="M154 256 392 158v196Z" fill="#d8d5ff"/>
-</svg>
